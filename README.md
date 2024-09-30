@@ -75,7 +75,7 @@ public class AnaliseFaturamento
 
 ## 4) Modelo lógico:
 
-![Modelo lógico](teste-target-sistemas/logo.png)
+![Modelo lógico](diagrama_modelo_logico.png)
 
 Consulta SQL:
 
@@ -106,4 +106,3 @@ Durante os 44 minutos (0,735 horas), podemos calcular as distâncias percorridas
   - Distância do carro = 90 km/h x 0,735 = **66,15 km**.
 
 No entanto, devido ao atraso de 15 minutos (0,25 horas) pelos pedágios, a velocidade efetiva do carro é reduzida, e podemos concluir que o caminhão estará mais próximo de Ribeirão Preto quando ambos se cruzarem.
-```
